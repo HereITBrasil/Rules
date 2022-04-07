@@ -9,21 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s2way/Rules.git"
+    "url": "https://github.com/HereITBrasil/Rules.git"
   },
   "keywords": [
     "rules",
     "checker"
   ],
-  "author": "Newborns/S2Way",
+  "author": "HereITBrasil",
   "bugs": {
-    "url": "https://github.com/s2way/Rules/issues"
+    "url": "https://github.com/HereITBrasil/Rules/issues"
   },
-  "homepage": "https://github.com/s2way/Rules",
+  "homepage": "https://github.com/HereITBrasil/Rules",
   "dependencies": {
     "moment": "^2.14.1",
     "underscore": "^1.8.3",
-    "exception": "https://github.com/rodolforios/Exception.git"
+    "exception": "https://github.com/HereITBrasil/Exception.git"
   },
   "devDependencies": {
     "coffee-script": "latest",
